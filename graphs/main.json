@@ -1,0 +1,25 @@
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "main",
+        "environment": {
+            "type": "noflo-nodejs"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "nofloruntime/ShowContents_l66bu": {
+            "component": "nofloruntime/ShowContents",
+            "metadata": {
+                "label": "ShowContents",
+                "x": 334,
+                "y": 100,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "connections": []
+}
