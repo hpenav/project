@@ -20,6 +20,7 @@ exports.getComponent = () => {
     const data = input.getData('in');
     // Process data and send output
     output.send({
+      console.log(data);
       out: data
     });
     // Deactivate
